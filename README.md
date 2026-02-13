@@ -4,12 +4,7 @@
 
 If you would still prefer to do the installation manually, follow these steps:
 
-Clone the repo:
-
-```bash
-git clone git@bitbucket.org:vodjo/boilerplate-express.git
-cd boilerplate-express
-```
+Clone the repo
 
 Install the dependencies:
 
